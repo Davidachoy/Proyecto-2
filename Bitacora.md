@@ -17,3 +17,8 @@ Ya es posible modificar las empresas. primero verifica la cedula y despues cambi
 
 ![3](https://user-images.githubusercontent.com/83445439/119446631-f80efb80-bceb-11eb-985d-48a5f993ff0f.PNG)
 
+25/5/2021 
+
+complete la funcion de mostrar empresas y empece con gestion transporte
+
+![4](https://user-images.githubusercontent.com/83445439/119509879-42b16780-bd2e-11eb-9901-17be43d6894c.PNG)
