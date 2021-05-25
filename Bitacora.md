@@ -13,4 +13,7 @@ Logre crear la opcion de agregar empresa que valida los datos y actualemente est
 
 ![2](https://user-images.githubusercontent.com/83445439/119439749-3c949a00-bce0-11eb-8614-2216d038deb3.PNG)
 
+Ya es posible modificar las empresas. primero verifica la cedula y despues cambia el dato ingresando la opcion que desea modificar
+
+![3](https://user-images.githubusercontent.com/83445439/119446631-f80efb80-bceb-11eb-985d-48a5f993ff0f.PNG)
 
