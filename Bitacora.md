@@ -43,4 +43,6 @@ se esta terminando la opcion de filtrar viajes y por ultimo queda la opcion de e
 
 ![7](https://user-images.githubusercontent.com/83445439/120143162-d48cfa80-c19c-11eb-9e7f-5c16c965cc94.PNG)
 
-El menu general esta terminado y falta 
+El menu general esta terminado y consultar el historial de reservaciones para terminar todo el proyecto.
+
+El proyecto esta terminado hace falta la documentacion
