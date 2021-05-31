@@ -28,3 +28,17 @@ complete la funcion de mostrar empresas y empece con gestion transporte
 Logre finalizar la opcion de agregar transporte y mostar transporte, Actualmente estoy trabajando en la opcion de modificar transporte 
 
 ![6](https://user-images.githubusercontent.com/83445439/119742607-6915f680-be45-11eb-9ffd-0b87bc9ab3d2.PNG)
+
+25/5/2021
+
+Se termino Gestion empresa,viaje y transporte, 
+
+29/5/2021
+
+se termino la opcion de reservar asientos y cancelarlos pero no se logro crear la grafica de l
+
+30/5/2021 
+
+se esta terminando la opcion de filtrar viajes y por ultimo queda la opcion de estadistica y consultar historial de reservacion.
+
+![7](https://user-images.githubusercontent.com/83445439/120143162-d48cfa80-c19c-11eb-9e7f-5c16c965cc94.PNG)
